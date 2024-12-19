@@ -1,0 +1,14 @@
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\bin\Debug\net8.0\CSharpApp.exe
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\bin\Debug\net8.0\CSharpApp.deps.json
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\bin\Debug\net8.0\CSharpApp.runtimeconfig.json
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\bin\Debug\net8.0\CSharpApp.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\bin\Debug\net8.0\CSharpApp.pdb
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.AssemblyInfoInputs.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.AssemblyInfo.cs
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\refint\CSharpApp.dll
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.pdb
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\CSharpApp.genruntimeconfig.cache
+C:\Users\Atharva Hambarde\source\repos\CSharpApp\obj\Debug\net8.0\ref\CSharpApp.dll
